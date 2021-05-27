@@ -1,7 +1,7 @@
 import CompilePlaylists
 
 weekly_mix_id = "37i9dQZEVXcSJOMUL50oXh"
-mashup_playlist_id = "2LFqITJqUlNC3PP1ke10HJ"
+mashup_playlist_id = "6GMeKFQhQVQMnjBlbK3jGo"
 
 automator = CompilePlaylists.SpotifyAutomator()
 
